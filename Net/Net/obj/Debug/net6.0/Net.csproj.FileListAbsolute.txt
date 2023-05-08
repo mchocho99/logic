@@ -1,0 +1,15 @@
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\bin\Debug\net6.0\Net.exe
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\bin\Debug\net6.0\Net.deps.json
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\bin\Debug\net6.0\Net.runtimeconfig.json
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\bin\Debug\net6.0\Net.dll
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\bin\Debug\net6.0\Net.pdb
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\Net.csproj.AssemblyReference.cache
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\Net.AssemblyInfoInputs.cache
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\Net.AssemblyInfo.cs
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\Net.csproj.CoreCompileInputs.cache
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\Net.dll
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\refint\Net.dll
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\Net.pdb
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\Net.genruntimeconfig.cache
+C:\Users\marti\EstudiosEnCasa\logica\Net\Net\obj\Debug\net6.0\ref\Net.dll
